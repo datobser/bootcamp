@@ -9,7 +9,7 @@
 	{
 	    "kind": "main",
 	    "tag": "com.sap.sample-echart",
-            "url": "/https://github.com/datobser/bootcamp/blob/main/chart",
+            "url": "/https://github.com/datobser/bootcamp/blob/main/chart.js",
             "integrity": "",
             "ignoreIntegrity" : true
         }
